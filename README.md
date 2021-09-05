@@ -1,5 +1,5 @@
 # numpynet
-A neural network library written in pure Numpy.
+A simple and light-weight FC neural network implementation written in pure Numpy. Supports Adam, SDG, Momentum and NAG optimizers.
 
 ## Usage
 ```python
